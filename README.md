@@ -2,12 +2,12 @@
 
 My journey through the 100 Days of Code Python course, building projects to strengthen my programming skills and using Git and Github to get familiar with version control.
 
-Projects uploaded are selected based on their complexity.
+Only selected projects are uploaded.
 
 ## Projects
 
 ### Day 10: Calculator
-A command-line calculator with basic arithmetic operations.
+A command-line calculator with basic arithmetic operations and input validation.
 - **Skills**: Functions, loops, user input validation
 - **File**: `day10_calculator_project/main.py`
 
@@ -40,4 +40,4 @@ A terminal-based Blackjack card game with score tracking.
 ## About
 Created as part of the [100 Days of Code - Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy.
 
-Progress: Days 1-11 completed ✅ (Uploading of earlier projects ongoing)
+Progress: Days 1-11 completed ✅ (Uploading of other projects ongoing)
