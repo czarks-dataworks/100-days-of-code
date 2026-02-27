@@ -1,0 +1,43 @@
+# 100 Days of Code - Python Projects
+
+My journey through the 100 Days of Code Python course, building projects to strengthen my programming skills and using Git and Github to get familiar with version control.
+
+Projects uploaded are selected based on their complexity.
+
+## Projects
+
+### Day 10: Calculator
+A command-line calculator with basic arithmetic operations.
+- **Skills**: Functions, loops, user input validation
+- **File**: `day10_calculator_project/main.py`
+
+### Day 11: Blackjack
+A terminal-based Blackjack card game with score tracking.
+- **Skills**: Functions, lists, dictionaries, game logic, error handling
+- **File**: `day11_blackjack/main.py`
+
+## How to Run
+
+1. Clone this repository:
+```bash
+   git clone https://github.com/YOUR-USERNAME/100-days-of-code.git
+```
+
+2. Navigate to a project folder:
+```bash
+   cd 100-days-of-code/day11_blackjack
+```
+
+3. Run the Python file:
+```bash
+   python main.py
+```
+
+## Technologies
+- Python 3.14
+- Standard library modules
+
+## About
+Created as part of the [100 Days of Code - Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy.
+
+Progress: Days 1-11 completed ✅ (Uploading of earlier projects ongoing)
