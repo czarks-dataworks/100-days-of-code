@@ -20,7 +20,7 @@ A terminal-based Blackjack card game with score tracking.
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/YOUR-USERNAME/100-days-of-code.git
+   git clone https://github.com/ressikan-cb/100-days-of-code.git
 ```
 
 2. Navigate to a project folder:
