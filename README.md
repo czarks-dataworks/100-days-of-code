@@ -2,7 +2,7 @@
 
 My journey through the 100 Days of Code Python course, building projects to strengthen my programming skills and using Git and Github to get familiar with version control.
 
-Only selected projects are uploaded.
+Only selected projects are uploaded. Projects are done from scratch, not just by modifying solutions provided in the course. Enhancements on the projects are described on main.py.
 
 ## Projects
 
@@ -40,4 +40,4 @@ A terminal-based Blackjack card game with score tracking.
 ## About
 Created as part of the [100 Days of Code - Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy.
 
-Progress: Days 1-11 completed ✅ (Uploading of other projects ongoing)
+Progress: Days 1-15 completed ✅ 
