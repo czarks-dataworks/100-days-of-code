@@ -1,12 +1,10 @@
 # Additional functionalities/features and other changes compared to course solution:
-# 1. Improvement of resources dictionary so that the units of measurement are not hardcoded
+# 1. Improvement of resources dictionary so that the units of measurement are not hardcoded.
 # 2. Addition of a COINS dictionary for ease of access (no hardcoding) and iteration.
 # 3. Validation of *all* user inputs: order, inserted coins, etc.
-# 4. Addition of a function refill() to enable continued "machine use" without exiting the program
+# 4. Addition of a function refill() to enable continued "machine use" without exiting the program,
+#    and a function turn_off() to exit the program.
 # 5. Extensive use of loops and intermediate dictionary referencing to get inputs, iterate printing, update values, etc.
-from string import digits
-
-from unicodedata import category
 
 from references import MENU, COINS
 
