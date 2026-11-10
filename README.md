@@ -34,7 +34,7 @@ A coffee machine simulator that manages resources (water, milk, coffee), process
 - **Features**: Resource management with units, refill functionality, comprehensive input validation, coin payment system with change calculation, inventory reporting
 - **File**: `day15_coffee_machine/main.py`
 
-## How to Run
+## How to Run:
 
 1. Clone this repository:
 ```bash
